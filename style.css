@@ -1,0 +1,99 @@
+ body{
+    overflow-x: hidden;
+ }
+.background{
+    background: rgba(234, 247, 252, 0.5);
+}
+.topnav{
+position: absolute;
+height: 81px;
+left: 0px;
+top: 0px;
+background: #FFFFFF;
+box-shadow: 0px 5px 10px -5px rgba(0, 0, 0, 0.25);
+}
+.topheader{
+     height: 35px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 35px;
+    color: #01818C;
+    font-family: 'Roboto', sans-serif;
+
+}
+.imgicon{
+    width: 49.02px;
+    height: 49.02px;
+}
+.mainImg{
+   width: 141.69px;
+   height: 129.67px;
+}
+
+.lastRowtext{
+    width: 189.18px;
+    height: 56px;
+    font-size: 12.2543px;
+    font-style: normal;
+    font-weight: 400;
+    color: #455A64;
+    font-family: 'Roboto', sans-serif;
+}
+
+.supportText{
+    width: 191.47px;
+    height: 56px;
+    font-style: normal;
+    font-weight: 400;
+     font-size: 12.2543px;
+     line-height: 18px;
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+   color: #455A64;
+}
+.licencetext{
+    width: 224px;
+height: 56px;
+font-style: normal;
+font-weight: 400;
+font-size: 12.2543px;
+line-height: 18px;
+font-family: 'Roboto', sans-serif;
+color: #455A64;
+}
+
+.growthtext{
+    width: 173.86px;
+height: 74px;
+font-style: normal;
+font-weight: 400;
+font-size: 12.2543px;
+line-height: 18px;
+text-align: right;
+color: #455A64;
+font-family: 'Roboto', sans-serif;
+
+}
+.demographyText{
+width: 189px;
+height: 74px;
+font-style: normal;
+font-weight: 400;
+font-size: 12.2543px;
+line-height: 18px;
+color: #455A64;
+text-align: left;
+font-family: 'Roboto', sans-serif;
+}
+.btninfo{
+width: 231px;
+height: 45px;
+left: 482px;
+top: 576px;
+background: #32959D;
+border-radius: 6px;
+padding: 13px 51px;
+text-decoration: none;
+font-family: 'Roboto', sans-serif;
+}
